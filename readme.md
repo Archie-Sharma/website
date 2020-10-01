@@ -99,6 +99,11 @@ to get help on how to use that. Or read the full documentation on [writing engin
 
 [List here (add your link when you're done)](http://github.com/resolve/refinerycms/wiki/Example-Site-Showcase)
 
+## Fun fact
+The most popular Ruby on Rails CMS
+With more than 617,995 downloads, 3,739 watchers on GitHub and 384 contributors,
+Refinery is the leading open source CMS on the Ruby on Rails framework.
+
 ## License
 
 Refinery is released under the [MIT license](http://github.com/resolve/refinerycms/blob/master/license.md#readme) and is copyright (c) 2005-2010 [Resolve Digital Ltd.](http://www.resolvedigital.co.nz)
